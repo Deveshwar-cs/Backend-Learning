@@ -1,0 +1,1 @@
+Learn about backend basics like node.js, express, middleware, mongodb, api etc
